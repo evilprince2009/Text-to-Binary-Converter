@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IG2i9v2cwofNFZCJBJ4aiW+3YhRf1zynsuI8Jk81E5+yGCuCD0lTeoEbFd73Boxks4jBKVGtz6ZgSvXv2tuMDg==",
+  "dgSpecHash": "FQflXetsBODY3G2RE6Ce9Dl4PwF94rDkKhX+mJ58MlsZDD4im3oPHR0r5XCSFhBGkf8yqGB6nmpHyOhyNcCrRw==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\StringToBinaryConverter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
+  "projectFilePath": "D:\\GitHub Repos\\Text-to-Binary-Converter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ibne Nahian\\.nuget\\packages\\metroframework\\1.2.0.3\\metroframework.1.2.0.3.nupkg.sha512",
     "C:\\Users\\Ibne Nahian\\.nuget\\packages\\metroframework.design\\1.2.0.3\\metroframework.design.1.2.0.3.nupkg.sha512",

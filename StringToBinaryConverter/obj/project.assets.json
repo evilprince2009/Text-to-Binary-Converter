@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Projects\\StringToBinaryConverter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
+      "projectUniqueName": "D:\\GitHub Repos\\Text-to-Binary-Converter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
       "projectName": "StringToBinaryConverter",
-      "projectPath": "D:\\Visual Studio Projects\\StringToBinaryConverter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
+      "projectPath": "D:\\GitHub Repos\\Text-to-Binary-Converter\\StringToBinaryConverter\\StringToBinaryConverter.csproj",
       "packagesPath": "C:\\Users\\Ibne Nahian\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Projects\\StringToBinaryConverter\\StringToBinaryConverter\\obj\\",
+      "outputPath": "D:\\GitHub Repos\\Text-to-Binary-Converter\\StringToBinaryConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -127,7 +127,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -172,7 +172,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   },

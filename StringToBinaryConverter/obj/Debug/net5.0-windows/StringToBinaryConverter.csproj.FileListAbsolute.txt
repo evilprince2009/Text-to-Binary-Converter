@@ -20,3 +20,25 @@ D:\Visual Studio Projects\StringToBinaryConverter\StringToBinaryConverter\obj\De
 D:\Visual Studio Projects\StringToBinaryConverter\StringToBinaryConverter\obj\Debug\net5.0-windows\ref\StringToBinaryConverter.dll
 D:\Visual Studio Projects\StringToBinaryConverter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.pdb
 D:\Visual Studio Projects\StringToBinaryConverter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.genruntimeconfig.cache
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.exe
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.deps.json
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.runtimeconfig.json
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.runtimeconfig.dev.json
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\ref\StringToBinaryConverter.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\StringToBinaryConverter.pdb
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\MetroFramework.Design.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\MetroFramework.Fonts.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\bin\Debug\net5.0-windows\MetroFramework.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.csproj.AssemblyReference.cache
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.AppForm.resources
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.csproj.GenerateResource.cache
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.AssemblyInfoInputs.cache
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.AssemblyInfo.cs
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.csproj.CopyComplete
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\ref\StringToBinaryConverter.dll
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.pdb
+D:\GitHub Repos\Text-to-Binary-Converter\StringToBinaryConverter\obj\Debug\net5.0-windows\StringToBinaryConverter.genruntimeconfig.cache

@@ -27,3 +27,5 @@ namespace StringToBinaryConverter
         }
     }
 }
+
+// Author: Ibne Nahian (evilprince2009)
